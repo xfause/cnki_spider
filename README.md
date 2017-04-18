@@ -1,5 +1,5 @@
 # cnki_spider
-##a spider for cnki paper's title and summary
+## a spider for cnki paper's title and summary
 
 ### use python3.5 beautifulsoup4 (maybe use mysqlpy)
 
